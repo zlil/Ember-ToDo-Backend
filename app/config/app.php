@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(0);
 return array(
 
 	/*
@@ -13,7 +13,7 @@ return array(
 	|
 	*/
 
-	'debug' => false,
+	'debug' => true,
 
 	/*
 	|--------------------------------------------------------------------------

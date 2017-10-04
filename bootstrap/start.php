@@ -10,7 +10,7 @@
 | the IoC container for the system binding all of the various parts.
 |
 */
-
+error_reporting(0);
 $app = new Illuminate\Foundation\Application;
 
 /*
