@@ -1,5 +1,5 @@
 # Ember-ToDo-Backend
-Laravel Backend For ToDo Application
+Simple Laravel Backend For ToDo Application for testing
 
 ## Prerequisites
 
